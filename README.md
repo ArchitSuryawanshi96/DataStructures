@@ -5,23 +5,23 @@ Code develped while learning DSA from the "The Ultimate Data Structures & Algori
 ## Learning outcomes:
 The first part is all about linear data structures and their algorithms:
 
-Big O Notation
-Arrays
-Linked Lists
-Stacks
-Queues
+Big O Notation,
+Arrays,
+Linked Lists,
+Stacks,
+Queues,
 Hash Tables
 
 The second part covers non-linear data structures and their algorithms:
 
-Binary Trees
-AVL Trees
-Heaps
-Tries
+Binary Trees,
+AVL Trees,
+Heaps,
+Tries,
 Graphs
 
 The third part explores:
 
-Searching Algorithms
-Sorting Algorithms
+Searching Algorithms,
+Sorting Algorithms,
 String Manipulation Algorithms
