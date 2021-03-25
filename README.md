@@ -1,6 +1,6 @@
 # DataStructures
 
-Code develped while learning DSA from the "The Ultimate Data Structures & Algorithms: Part 1, 2, 3" by "Mosh Hamedani".
+Code developed while learning DSA from the "The Ultimate Data Structures & Algorithms: Part 1, 2, 3" by "Mosh Hamedani".
 
 ## Learning outcomes:
 The first part is all about linear data structures and their algorithms:
